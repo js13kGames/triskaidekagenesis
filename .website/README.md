@@ -1,4 +1,7 @@
 ---
+genres:
+  - puzzle
+  - educational
 post: https://github.com/baturinsky/no13
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
